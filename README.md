@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+August 3rd,2018
 
 ### Student Name:  
-(First and Last Name)
+Saadiyah Qureshi
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignemnt was used to show how a movie application works and also using AJAX and JSON to update a webpage. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+ https://saadiyahq.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Ajax-allows client webpages to quickly interact and exchange date wtih a web server 
+2. What a poroxy is-server that acts for or performs for other cleints and servers
+3. Synchronous request-stops the processing of the JavaScript code until a response returned from the server
+    
